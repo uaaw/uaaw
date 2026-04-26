@@ -9,7 +9,7 @@
 
 -  I'm currently learning **I’m currently learning Rust.**
 
--  How to reach me **example@eris.rs**
+-  How to reach me **a@od.je**
 
 -  All of my projects are available at **[https://uaaw.dev](https://uaaw.dev)**
 
